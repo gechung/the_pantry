@@ -1,2 +1,1 @@
-GitHub Checkpoint Assignment
-
+Checkpoint Assignment: Introduction to Github
